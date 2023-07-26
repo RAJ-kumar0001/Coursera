@@ -1,4 +1,9 @@
 # Coursera
-Hello guys I'm creating this repo for my coursera project.
-This is edited README.md file.
-Thank you
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
